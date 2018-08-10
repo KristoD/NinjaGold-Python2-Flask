@@ -1,0 +1,29 @@
+.won {
+    color: green;
+}
+
+#container {
+    margin: 0 auto;
+    width: 75%;
+}
+
+#content {
+    display: inline-block;
+    width: 40%;
+}
+
+.lose {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+#log {
+    display: inline-block;
+    overflow: scroll;
+    width: 40%;
+    vertical-align: top;
+    height: 300px;
+}
